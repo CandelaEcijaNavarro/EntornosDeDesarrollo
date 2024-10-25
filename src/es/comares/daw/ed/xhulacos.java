@@ -8,6 +8,7 @@ public class xhulacos {
 		System.out.println("Hola mi nombre es Manuel Gutierrez");
 		System.out.println("Hola mi nombre es Manolo. Ya podéis descargar los cambios. No olvidéis documentar el proceso con capturas.");
 
+		System.out.println("Viva el fifax");
 	}
 
 }
